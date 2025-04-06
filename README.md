@@ -1,3 +1,2 @@
 # monitoring 
-#Testing via minikube
-#Prometheus | Grafana
+Prometheus | Grafana
